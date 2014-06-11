@@ -1,3 +1,3 @@
 URL's:
 1.Complete code for Android blog posts on hmkcode.com: https://github.com/hmkcode/Android
-2.
+2.Collection of basic android examples created by Novoda: https://github.com/novoda/android (http://www.novoda.com/blog)
